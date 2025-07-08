@@ -1,4 +1,4 @@
-# my-v0-project
+# Drishtea
 
 This is a Next.js project using React 19 and TailwindCSS. It includes various UI components and libraries such as Radix UI, react-day-picker, and more.
 
