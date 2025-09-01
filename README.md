@@ -28,7 +28,7 @@ npm run dev
 
 The app will be available at [http://localhost:3000](http://localhost:3000).
 
-## Additional Notes
+##$ Additional Notes
 
 - If you encounter network issues during installation, please check your internet connection or proxy settings.
 - The project uses Next.js version 15.2.4 and React 19.
